@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'bktree'
-  s.version = '0.0.1'
+  s.version = '0.0.2'
   s.authors = ["Tyler McMullen"]
   s.date = '2010-02-13'
   s.description = 'bktree in c with ruby bindings'
